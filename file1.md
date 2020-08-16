@@ -1,0 +1,5 @@
+This file is created to learn the fundamentals of git. 
+
+Small changes will be done below so that a commit can be made out of it:
+
+Change 1

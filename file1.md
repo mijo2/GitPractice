@@ -5,3 +5,5 @@ Small changes will be done below so that a commit can be made out of it:
 Change 1
 
 Change 2
+
+Change 3
